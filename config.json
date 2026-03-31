@@ -1,6 +1,6 @@
 {
   "serverHost": "underpubsmp.playserver.pro",
-  "serverPort": "25565",
+  "serverPort": 48137,
   "botUsername": "AeFKa",
   "botChunk": 4
 }
